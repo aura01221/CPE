@@ -18,4 +18,5 @@ int main()
         cout << week[ans % 7] << endl;
     }
     return 0;
+    
 }
