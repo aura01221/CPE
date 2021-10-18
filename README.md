@@ -1,2 +1,2 @@
 # CPE
-## Here is the place for learning Coding CPE
+## Here is the place for Coding CPE
